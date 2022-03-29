@@ -2,6 +2,9 @@
 <div>
   <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanFireDark47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanFireDark47&layout=compact&langs_count=7&theme=radical"/>
+  
+  ##
+  
   <a href="https://github.com/DanFireDark47/SistemaDeComandas-Bootstrap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanFireDark47&repo=SistemaDeComandas-Bootstrap&theme=radical" />
 </a>
@@ -10,7 +13,7 @@
 </a>
 </div>
   
-  
+  ##
   
  <div>
     <ul><h3>Metas:</h3>

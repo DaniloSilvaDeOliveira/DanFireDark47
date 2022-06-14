@@ -1,54 +1,80 @@
-## WELCOME TO MY GITHUB PROFILE😆
-<div>
-  <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanFireDark47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="center" img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanFireDark47&layout=compact&langs_count=7&theme=radical"/>
-  
-  ##
-  
-  <a href="https://github.com/DanFireDark47/Danilo-ccaniqueis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanFireDark47&repo=Danilo-ccaniqueis&theme=radical" />
-</a>
-<a href="https://github.com/DanFireDark47/Etec-TCC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanFireDark47&repo=Etec-TCC&theme=radical"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&username=DanFireDark47" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=DanFireDark47" height="160" alt="languages graph"  />
 </div>
-  
-  ##
-  
- <div>
-    <ul><h3>Metas:</h3>
-      <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
+
+###
+<h1 align="center">Metas</h1>
+<ul>
+  <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
       <li>Terminar Ensino Técnico de Analise e Desenvolvimento de Sistemas</li>
       <li>Arranjar Meu Primeiro Emprego Na Área</li></ul>
-   <ul><h3>Goals:</h3>
+      
+###
+<h1 align="center">Goals</h1>
+<ul>
      <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
      <li>Finish Technical Education in Systems Analysis and Developments</li>
      <li>Get My First Job</li>
    <ul/>
-  </div>
-    
-  ##
-    
- <div style="display: inline_block"><br>
-   <a href="https://github.com/DanFireDark47">
-   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-   <img align="center" alt="Dan-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-   <img align="center" alt="Dan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-   <img align="center" alt="Dan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <img align="center" alt="Dan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" alt="Dan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Dan-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-          
-   
- </div>
-  
-  ##
-  
-  <div>
-  <a href="https://www.instagram.com/din.amus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/danfiredark" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/YYVQXfeD5x" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:DFDark47@Gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilosilvadeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+
+###
+<h1 align="center">Tecnologias que eu uso</h1>
+
+###
+<h3 align="left">Front-End</h3>
+
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+</div>
+
+###
+<h3 align="center">Back-End</h3>
+
+###
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+</div>
+
+###
+<h3 align="right">Outros...</h3>
+
+###
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+</div>
+
+###
+<h1 align="center">Redes Sociais</h1>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/danilosilvadeoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/dab_fure" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/din.amus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:DFDark47@Gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+<div align="left">
+  <a href="https://open.spotify.com/user/danfiredark">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=danfiredark&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>

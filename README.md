@@ -7,14 +7,16 @@
 <h1 align="center">Metas</h1>
 <ul>
   <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
-      <li>Terminar Ensino Técnico de Analise e Desenvolvimento de Sistemas</li>
+      <li><strike>Terminar Ensino Técnico de Analise e Desenvolvimento de Sistemas</strike></li>
+      <li>Terminar A Faculdade</li>
       <li>Arranjar Meu Primeiro Emprego Na Área</li></ul>
       
 ###
 <h1 align="center">Goals</h1>
 <ul>
      <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
-     <li>Finish Technical Education in Systems Analysis and Developments</li>
+     <li><strike>Finish Technical Education in Systems Analysis and Developments</strike></li>
+     <li>Finish College</li>
      <li>Get My First Job</li>
    <ul/>
 

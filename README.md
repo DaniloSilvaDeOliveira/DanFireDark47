@@ -38,7 +38,7 @@
      <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
      <li><strike>Finish Technical Education in Systems Analysis and Developments</strike></li>
      <li>Finish College</li>
-     <li>Get My First Job</li>
+     <li>Get My First Job in the area</li>
    <ul/>
 
 

@@ -16,6 +16,9 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
+<details>
+<summary><samp><b>Mais Informações</b></samp></summary>
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&username=DanFireDark47" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=DanFireDark47" height="160" alt="languages graph"  />
@@ -90,6 +93,7 @@
   <a href="mailto:DFDark47@Gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
 </div>
 
 ###
@@ -98,3 +102,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=danfiredark&count=7&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+</details>

@@ -7,7 +7,7 @@
         Me chamo Danilo, Sou Estudante e Entusiasta de Linux
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Engenheiro+de+Software">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Aluno+de+Análise1+e+Desenvolvimento+de+Sistemas">
       <br>
       <b>
         /* Danilo Silva de Oliveira */

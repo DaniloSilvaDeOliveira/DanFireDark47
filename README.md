@@ -30,7 +30,7 @@
   <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
       <li><strike>Terminar Ensino Técnico de Analise e Desenvolvimento de Sistemas</strike></li>
       <li>Terminar A Faculdade</li>
-      <li>Arranjar Meu Primeiro Emprego Na Área</li></ul>
+      <li><strike>Arranjar Meu Primeiro Emprego Na Área</strike></li></ul>
       
 ###
 <h1 align="center">Goals</h1>
@@ -38,7 +38,7 @@
      <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
      <li><strike>Finish Technical Education in Systems Analysis and Developments</strike></li>
      <li>Finish College</li>
-     <li>Get My First Job in the Area</li>
+     <li><strike>Get My First Job in the Area</strike></li>
    <ul/>
 
 

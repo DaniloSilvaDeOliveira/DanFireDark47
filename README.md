@@ -22,6 +22,11 @@
 <details>
 <summary><samp><b>Mais Informações</b></samp></summary>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=DaniloSilvaDeOliveira" height="160" alt="languages graph"  />
+</div>
+
 ###
 <h1 align="center">Metas</h1>
 <ul>

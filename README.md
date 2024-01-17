@@ -81,9 +81,9 @@
 
 ###
 <h1 align="center">Redes Sociais</h1>
-
 ###
-<div align="left">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/danilosilvadeoliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -97,7 +97,8 @@
 </div>
 
 ###
-<div align="left">
+
+<div align="center">
   <a href="https://open.spotify.com/user/danfiredark">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=danfiredark&count=7&unique=true" alt="Spotify recently played"  />
   </a>

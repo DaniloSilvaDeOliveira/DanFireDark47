@@ -80,10 +80,6 @@
 </div>
 
 ###
-
-![Snake animation](https://github.com/DaniloSilvaDeOliveira/DaniloSilvaDeOliveira/blob/output/github-contribution-grid-snake.svg)
-
-###
 <h1 align="center">Redes Sociais</h1>
 
 ###

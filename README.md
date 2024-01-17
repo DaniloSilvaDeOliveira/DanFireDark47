@@ -28,6 +28,7 @@
 </div>
 
 ###
+
 <h1 align="center">Metas</h1>
 <ul>
   <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
@@ -36,6 +37,7 @@
       <li><strike>Arranjar Meu Primeiro Emprego Na Área</strike></li></ul>
       
 ###
+
 <h1 align="center">Goals</h1>
 <ul>
      <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
@@ -80,7 +82,9 @@
 </div>
 
 ###
+
 <h1 align="center">Redes Sociais</h1>
+
 ###
 
 <div align="center">

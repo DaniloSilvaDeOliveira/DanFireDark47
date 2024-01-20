@@ -28,26 +28,6 @@
 </div>
 
 ###
-
-<h1 align="center">Metas</h1>
-<ul>
-  <li><strike>Entrar em uma faculdade de Analise e Desenvolvimento de Sistemas</strike></li>
-      <li><strike>Terminar Ensino Técnico de Analise e Desenvolvimento de Sistemas</strike></li>
-      <li>Terminar A Faculdade</li>
-      <li><strike>Arranjar Meu Primeiro Emprego Na Área</strike></li></ul>
-      
-###
-
-<h1 align="center">Goals</h1>
-<ul>
-     <li><strike>Join in a College About Systems Analysis and Developments</strike></li>
-     <li><strike>Finish Technical Education in Systems Analysis and Developments</strike></li>
-     <li>Finish College</li>
-     <li><strike>Get My First Job in the Area</strike></li>
-   <ul/>
-
-
-###
 <h1 align="center">Tecnologias que eu uso</h1>
 
 ###
@@ -91,11 +71,9 @@
   <a href="https://www.linkedin.com/in/danilosilvadeoliveira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/din.amus/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:danilo.soliveira@uol.com.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <br>
+  <a href="https://tryhackme.com/p/DaniloSOliveira">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/DaniloSOliveira.png" alt="TryHackMe">
   </a>
 
 </div>

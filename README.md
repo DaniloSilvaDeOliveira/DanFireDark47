@@ -2,15 +2,14 @@
   <p align="center">
     <samp>
       <b>
-        Seja Bem-Vindo ao meu Perfil🤓
+        Welcome to my Profile🤓
       <br>
-        Me chamo Danilo, Sou Estudante e Entusiasta de Linux
+        My name is Danilo, and I am a graduate in Systems Analysis and Development
+      <br>
+        and an
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&repeat=false&height=45&lines=Aluno+de+Análise+e+Desenvolvimento+de+Sistemas">
-      </br>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&repeat=false&height=45&lines=Analista+de+Segurança+da+Informação">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&repeat=false&height=45&lines=Information+Security+Analyst">
       <br>
       <b>
         /* Danilo Silva de Oliveira */
@@ -19,16 +18,16 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<details>
-<summary><samp><b>Mais Informações</b></samp></summary>
 
+<details>
+<summary><samp><b>More Information</b></samp></summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=DaniloSilvaDeOliveira" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=DaniloSilvaDeOliveira" height="160" alt="languages graph"  />
 </div>
 
 ###
-<h1 align="center">Tecnologias que eu uso</h1>
+<h1 align="center">Technologies I Use</h1>
 
 ###
 <h3 align="left">Front-End</h3>
@@ -52,7 +51,7 @@
 </div>
 
 ###
-<h3 align="right">Outros...</h3>
+<h3 align="right">Others...</h3>
 
 ###
 <div align="right">
@@ -63,7 +62,7 @@
 
 ###
 
-<h1 align="center">Redes Sociais</h1>
+<h1 align="center">Social Media</h1>
 
 ###
 
@@ -75,5 +74,4 @@
   <a href="https://tryhackme.com/p/DaniloSOliveira">
     <img src="https://tryhackme-badges.s3.amazonaws.com/DaniloSOliveira.png" alt="TryHackMe">
   </a>
-
 </div>
